@@ -1,0 +1,115 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.pink {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #2A4580;
+    width: 100%;
+    margin: 0px;
+}
+
+.button {
+    display: flex;
+    background-color: #36bbce;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+nav {
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    padding: 15px 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.nav-link {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    margin: 40px 0;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0px; 
+    justify-content: center;
+}
+
+article {
+    text-decoration: none;
+    background-color: white;
+    padding: 15px;
+    width: 400px;
+    margin: 30px;
+    text-align: center;
+    color: black;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #6C8DD5;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    font-size: 20px;
+    margin: 50px;
+}
+
+footer {
+    background-color: white;
+    padding: 10px;
+}
+
+footer a {
+    margin-right: 1opx;
+}
+
+footer p {
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.grange {
+    display: flex;
+    background-color: #2A4580;
+}
+
+.red {
+    color: white;
+}
+
+.orange {
+    width: 100%;
+}
